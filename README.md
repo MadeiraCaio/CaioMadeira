@@ -3,7 +3,9 @@ Oiii, sou Caio Madeira, estudante de programação, apaixonado por Front-End. �
 Estudante do segundo semestre do curso de Tecnologia em Sistemas para internet, pelo Instituto Federal de Ciência e Tecnologia de Brasília.
 
 -Hoje estudo front-end 
+
 -Estudando JavaScript
+
 -Contate-me no e-mail: caio.dev.programador@gmail.com
 
 
